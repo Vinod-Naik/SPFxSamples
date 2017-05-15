@@ -1,0 +1,25 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "3f0016ae-168c-4bff-a2a1-fa8067a674ec",
+  "alias": "JsBasicWpWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "3f0016ae-168c-4bff-a2a1-fa8067a674ec",
+    "group": { "default": "Under Development" },
+    "title": { "default": "JS-BasicWP" },
+    "description": { "default": "Basic Webpart with no connectivity to sharepoint" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "JS-BasicWP",
+      "txtProperty":"Text Property Value",
+      "chkBoxProperty" : false,
+      "toggleProperty": true,
+      "choiceProperty":"2",
+      "sliderProperty":60
+    }
+  }]
+}

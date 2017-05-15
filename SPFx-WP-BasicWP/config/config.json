@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/jsBasicWp/JsBasicWpWebPart.js",
+      "manifest": "./src/webparts/jsBasicWp/JsBasicWpWebPart.manifest.json",
+      "outputPath": "./dist/js-basic-wp.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "jsBasicWpStrings": "webparts/jsBasicWp/loc/{locale}.js"
+  }
+}

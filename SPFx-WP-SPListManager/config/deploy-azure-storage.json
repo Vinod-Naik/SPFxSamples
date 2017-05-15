@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "spfxstorageacc",
+  "container": "splistmanager-webpart",
+  "accessKey": "mSvVK0zA10bPtybY/3rLYxlEOfa92BwPsYIYrKPvOqeL1IIseXwQeqwyJZ61F3QxRaZ1NJyfLkA+5YzK0wr2kQ=="
+}

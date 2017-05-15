@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "32857874-5bc9-48fc-b161-e1bd66561b4c",
+  "alias": "SpFxListManagerWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "32857874-5bc9-48fc-b161-e1bd66561b4c",
+    "group": { "default": "Under Development" },
+    "title": { "default": "SPFx-ListManager" },
+    "description": { "default": "Sharepoint Frameowrk List Manger Webpart" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "SPFx-ListManager"
+    }
+  }]
+}

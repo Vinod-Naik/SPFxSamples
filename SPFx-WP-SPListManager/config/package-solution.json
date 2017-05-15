@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sp-fx-sp-list-manager-client-side-solution",
+    "id": "9bc8e3fb-7303-4f6a-b712-a31f26ec8ec7",
+    "version": "2.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-fx-sp-list-manager.sppkg"
+  }
+}

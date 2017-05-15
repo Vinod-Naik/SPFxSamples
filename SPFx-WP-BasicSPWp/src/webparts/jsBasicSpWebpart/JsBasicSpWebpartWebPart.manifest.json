@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "68983092-8943-4b86-86c2-631a48b24d58",
+  "alias": "JsBasicSpWebpartWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "68983092-8943-4b86-86c2-631a48b24d58",
+    "group": { "default": "Under Development" },
+    "title": { "default": "JS-BasicSpWebpart" },
+    "description": { "default": "Basic webpart talking to Sharepoint to get the lists" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "JS-BasicSpWebpart"
+    }
+  }]
+}

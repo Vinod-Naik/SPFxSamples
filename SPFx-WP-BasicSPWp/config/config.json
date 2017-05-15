@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/jsBasicSpWebpart/JsBasicSpWebpartWebPart.js",
+      "manifest": "./src/webparts/jsBasicSpWebpart/JsBasicSpWebpartWebPart.manifest.json",
+      "outputPath": "./dist/js-basic-sp-webpart.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "jsBasicSpWebpartStrings": "webparts/jsBasicSpWebpart/loc/{locale}.js"
+  }
+}

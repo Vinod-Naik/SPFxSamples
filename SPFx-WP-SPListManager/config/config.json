@@ -1,0 +1,19 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/spFxListManager/SpFxListManagerWebPart.js",
+      "manifest": "./src/webparts/spFxListManager/SpFxListManagerWebPart.manifest.json",
+      "outputPath": "./dist/sp-fx-list-manager.bundle.js"
+    },
+    {
+      "entry": "./lib/webparts/spFxListItemManager/SpFxListItemManagerWebPart.js",
+      "manifest": "./src/webparts/spFxListItemManager/SpFxListItemManagerWebPart.manifest.json",
+      "outputPath": "./dist/sp-fx-list-item-manager.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "spFxListManagerStrings": "webparts/spFxListManager/loc/{locale}.js",
+    "spFxListItemManagerStrings": "webparts/spFxListItemManager/loc/{locale}.js"
+  }
+}

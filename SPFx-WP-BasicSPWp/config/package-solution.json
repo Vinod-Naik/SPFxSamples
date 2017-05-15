@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "js-basic-sp-web-part-client-side-solution",
+    "id": "42fb697e-e57f-4f8d-8a8a-7e6d90f9a401",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/js-basic-sp-web-part.sppkg"
+  }
+}

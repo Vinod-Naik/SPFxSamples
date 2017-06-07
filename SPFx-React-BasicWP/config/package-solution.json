@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-react-basicwp-client-side-solution",
+    "id": "1d68056a-72ea-42a8-93a1-e521df210ae9",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-react-basicwp.sppkg"
+  }
+}
